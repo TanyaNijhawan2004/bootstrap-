@@ -1,0 +1,80 @@
+#title{
+    background-color: #FEF4F2;
+    color: black;
+
+}
+.navbar-title{
+    color: black;
+}
+#footer{
+    background-color: #4A4A4A;
+    color:white;
+    padding:7% 15%;
+
+}
+.footer-icons{
+    margin:20px 10px;
+}
+#tricks{
+    background-color: #FEF4F2;
+    color: black;
+}
+#heading2{
+    margin-left: 3rem;
+    width: 25%;
+    border: solid rgb(255, 0, 0);
+    border-radius: 3px;
+}
+ul{
+    list-style-type:none;
+    }
+body {
+        overflow-x: hidden; /* Hide horizontal scrollbar */
+      }
+.card-body{
+    background-color: #FEF4F2;
+    color: black;
+    position: relative;
+
+}
+.card{
+    border-radius: 50px;
+}
+
+
+#cakes.donuts{
+justify-content: center;
+}
+
+#nav-content {
+    color: black;
+    justify-content: space-between;
+}
+.nav-link{
+    color:black !important;
+}
+.container-fluid{
+    padding:3% 15%;
+}
+.image2{
+    width: 70%;}
+
+.image1{
+    width: 11vh;
+    transform: rotate(90deg);
+    position: absolute;
+    top:-73%;
+    right:18%;}
+.heading{
+    margin-left: 17%;
+    margin-bottom: 4%;
+}
+.pastry{
+    display: inline-block;
+    position: absolute;
+    width: max-content;
+    top:-15%;
+    left:82%;
+
+}
+
